@@ -1,0 +1,15 @@
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\bin\Debug\net8.0\JsonGenerator.exe
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\bin\Debug\net8.0\JsonGenerator.deps.json
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\bin\Debug\net8.0\JsonGenerator.runtimeconfig.json
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\bin\Debug\net8.0\JsonGenerator.dll
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\bin\Debug\net8.0\JsonGenerator.pdb
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.AssemblyInfoInputs.cache
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.AssemblyInfo.cs
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.sourcelink.json
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.dll
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\refint\JsonGenerator.dll
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.pdb
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\JsonGenerator.genruntimeconfig.cache
+C:\Users\srishtic\OneDrive - Surya Software Systems Private Limited\Desktop\JsonGenerator\JsonGenerator\obj\Debug\net8.0\ref\JsonGenerator.dll
